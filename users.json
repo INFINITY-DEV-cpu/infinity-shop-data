@@ -6,5 +6,9 @@
   "basic": {
     "count": 0,
     "last_detection": "Never"
+  },
+  "absolute": {
+    "count": 1,
+    "last_detection": "Never"
   }
 }
